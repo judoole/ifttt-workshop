@@ -1,50 +1,36 @@
 # ifttt-workshop
 Workshop for ifttt.com
 
-### 1. Lag deg en konto på [ifttt.com/join](https://ifttt.com/join)
+### Lag deg en konto på [ifttt.com/join](https://ifttt.com/join)
 + Innstaller appen
 
-### 2. Send deg sjøl være for i dag
-* Create recipe
+### Lag en notification for været i dag
+* Create recipe online
 * Velg weather
 * Velg IF Notification
 * Klokkeslett
 
-### 3. SMS
-* Connect SMS
-* Recipe ?
-* Send SMS til ifttt.com sitt telefonnummer
-* Boring...
+### DO Button
+* Lag en DO Button
 
-### 4. Webhook outgoing
-* Python simple http server
-* Trykke en knapp og vips
-* Lagre i Google Docs
-* �pent spm:  Når kan dette brukes?
-*
+### Maker incoming
+* Bruk curl post til maker url
+* Logg curls i Google Docs
 
 ### Webhook incoming
-*
+* Sett opp en lokal server. Se <href-til-python-simpleserver>
+* Sett ngrok til å broadcaste webappen
 
-### Manythings
-* DO button
-* detection
-*
+### Done? Hva med disse?
 
-### Mail?
-* Gmail
-* Star en e-post og lag iOS Reminder
+## Manythings
+Manythings er et ganske spennende "alarmsystem". Lag deg en konto og bruk en iPhone/iPad og ifttt trigger.
 
-### Launch center
-* Jau.
+## Phillips Hue
+* Koble deg til med passord og brukernavn
 
 ### Github
 * create issues
 
-### Hackster.io
-*
-
-### Date & Time Channel
-*
-
 ### Numbers
+Kul måte å telle på! Hva med en DO button?
