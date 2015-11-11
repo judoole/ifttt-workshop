@@ -15,8 +15,8 @@
 * Logg curls i Google Docs
 
 # :star: Webhook incoming
-* Sett opp en lokal server. Se <href-til-python-simpleserver>
-* Sett ngrok til å broadcaste webappen
+* Sett opp en lokal server. Bruk f.eks. vedlagte webhookserver slik ```./webhookserver.py 7070```
+* Sett https://ngrok.com/ til å broadcaste webappen
 
 # :star: Go mobile
 * Prøv en av mobil-trigger/actions
